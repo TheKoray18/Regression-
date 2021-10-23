@@ -9,6 +9,6 @@
 
 ![sklearn](https://user-images.githubusercontent.com/62722522/138573714-77ef5d27-fc08-4335-95f6-cbf7c50ab975.png)
 
-## Kendimizin yazdığı Regression Alogritması :
+## Kendimizin yazdığı Regression Alogritmasının bulduğu Sabit ve Eğim :
 
 ![our_regrssion](https://user-images.githubusercontent.com/62722522/138573743-cfc0b835-fe6e-4e38-9a7e-0128b8e6bca4.png)
