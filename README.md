@@ -7,4 +7,4 @@
 
 ## Sklearn LinearRegression() Algoritması :
 
-![Sklearn](sklearn.png)
+![sklearn](https://user-images.githubusercontent.com/62722522/138573714-77ef5d27-fc08-4335-95f6-cbf7c50ab975.png)
